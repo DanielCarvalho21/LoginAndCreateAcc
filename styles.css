@@ -1,0 +1,57 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+#label{
+}
+
+
+#email{
+    color: black;
+    background-color: #f8f8ff;
+    border-radius: 5px;
+    height: 25px;
+    padding: 2px;
+}
+
+#senha{
+    color: black;
+    background-color: #f8f8ff;
+    border-radius: 5px;
+    height: 25px;
+    padding: 2px;
+}
+
+a{
+    margin-top: 10px;
+}
+
+body{
+    background-color: #121214;
+    color: #ccd0cf;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: auto;
+    align-items: center;
+    height: 100vh;
+}
+
+#container2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    gap: 5px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
