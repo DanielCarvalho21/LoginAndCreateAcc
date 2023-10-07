@@ -6,7 +6,6 @@ h1{
 #label{
 }
 
-
 #email{
     color: black;
     background-color: #f8f8ff;
@@ -47,6 +46,14 @@ body{
     flex-direction: column;
     width: 300px;
     gap: 5px;
+}
+
+#botao{
+    gap: 2px;
+    border-radius: 5px;
+    height: 40px;
+    width: 30%;
+    flex-direction: column;
 }
 
 *{
