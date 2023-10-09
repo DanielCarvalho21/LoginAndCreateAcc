@@ -10,7 +10,7 @@ document.getElementById('botao').addEventListener('click', async function(){
       senha
     })
 
-    location.href="http://127.0.0.1:5501/logged.html"
+    location.href="http://127.0.0.1:5501/html/logged.html"
 
   } catch (error) {
     alert("Erro")
